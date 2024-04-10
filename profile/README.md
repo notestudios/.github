@@ -1,4 +1,4 @@
-<img align="center" src="/repos/banners/notestudios.png">
+<img align="center" src="/repo/banners/notestudios.png">
 
 ### Open-source games, made for you.
   
