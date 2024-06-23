@@ -1,22 +1,20 @@
-<!-- <img align="center" src="/repo/banners/notestudios.png"> -->
 <div align="center">
-  
-### Open-source games, made for you.
+  <img style="width:24%" src="/repo/banners/notestudios.png"><br>
+  <i> Open-source games made for fun! </i>
+</div>
+<br>
+<div align="center">
+
+  <a href="https://github.com/notestudios/TheTraveler"
+    ><img style="width:14%" src="/repo/banners/thetraveler.png"></a> 
+  <a href="https://github.com/notestudios/SpaceShooter"
+    ><img style="width:35%;height:12%" src="/repo/banners/spaceshooter.png"></a>
 
 </div>
 
 <div align="center">
-  
-| Game | Description |
-| :-: | :-: |
-| [The Traveler](https://github.com/notestudios/TheTraveler) | Free 2D Shooter game! Defeat all enemies! |
-| [Space Shooter](https://github.com/notestudios/SpaceShooter) | Game about shooting meteors in the Space! |
 
-</div>
-
-<div align="center">
-
-### Projects
+<h3> Projects / Libraries </h3>
 
 | Name | Description |
 | :-: | :-: |
