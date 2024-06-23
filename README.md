@@ -1,2 +1,2 @@
 # notestudios
-Notestudios' profile README.md
+Note Studios' README.md
