@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width:24%" src="/repo/banners/notestudios.png"><br>
+  <img style="width:35%" src="/repo/banners/notestudios.png"><br>
   <i> Open-source games made for fun! </i>
 </div>
 <br>
