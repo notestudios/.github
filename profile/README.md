@@ -18,7 +18,7 @@
 
 | Name | Description |
 | :-: | :-: |
-| [NoteUI](https://github.com/notestudios/noteui) | (**In development**) An UI library for games made with Graphics2D |
+| [NoteEngine](https://github.com/notestudios/noteengine) | 2D Game Engine for Java made with Graphics2D |
 | [notestudios.github.io](https://github.com/notestudios/notestudios.hithub.io) | Note Studios' web page |
 
 
