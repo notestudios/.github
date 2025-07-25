@@ -19,7 +19,7 @@
 | Name | Description |
 | :-: | :-: |
 | [NoteEngine](https://github.com/notestudios/noteengine) | 2D Game Engine for Java made with Graphics2D |
-| [notestudios.github.io](https://github.com/notestudios/notestudios.ghithub.io) | Note Studios' web page |
+| [notestudios.github.io](https://github.com/notestudios/notestudios.github.io) | Note Studios' web page |
 
 
 </div>
